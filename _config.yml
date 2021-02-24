@@ -103,6 +103,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-- type: git
+- type: 'git'
   repo: git@github.com:toimc/toimc.github.io.git # 使用仓库的ssh地址
   branch: master
